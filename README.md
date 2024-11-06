@@ -38,9 +38,7 @@ Navigate to the project directory:
 
 cd cybercrime-classification
 
-Install the required dependencies:
-
-    pip install -r requirements.txt
+Install the required dependencies
 
 Usage
 
